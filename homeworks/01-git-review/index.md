@@ -1,6 +1,6 @@
 # **Zadanie 1 - Git Review**
 ## **Spis zagadnień i pojęć, których nauczyłem się na kursie.**    
-> Tutaj znajdziesz linki do innych plików mojego repozytorium -> [skills.md](01-git-review/skills.md) [links.md](/links.md)
+> Tutaj znajdziesz linki do innych plików mojego repozytorium -> [skills.md](./skills.md) [links.md](/links.md)
 
 ### **Dzień pierwszy**  
 * tworzenie repozytorium lokalnego (**working directory, staging area, local repository**),
